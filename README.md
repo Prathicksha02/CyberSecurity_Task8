@@ -9,43 +9,43 @@ Windscribe (Free Version)
 ## Steps Followed:
 1. Account Creation:
 
-Signed up for a free Windscribe account on windscribe.com.
+   Signed up for a free Windscribe account on windscribe.com.
 
-Download and Installation:
+2. Download and Installation:
 
-Downloaded and installed the Windscribe VPN client for Windows.
+   Downloaded and installed the Windscribe VPN client for Windows.
 
 2. Login:
 
-Logged into the Windscribe VPN application using the registered account.
+   Logged into the Windscribe VPN application using the registered account.
 
 3. VPN Connection:
 
-Connected to the Hong Kong - Victoria server using the VPN client.
+   Connected to the Hong Kong - Victoria server using the VPN client.
 
-Verified that the VPN status was showing as "Connected".
+   Verified that the VPN status was showing as "Connected".
 
 4. IP Address Verification:
 
 5. Before connecting to VPN:
 
-Checked my public IP on whatismyipaddress.com.
+   Checked my public IP on whatismyipaddress.com.
 
-IP showed my original location.
+   IP showed my original location.
 
 6. After connecting to VPN:
 
-IP changed to Hong Kong location confirming VPN is working.
+   IP changed to Hong Kong location confirming VPN is working.
 
 7. Website Browsing Test:
 
-Accessed websites like Google and YouTube to ensure traffic was encrypted and internet access worked normally.
+   Accessed websites like Google and YouTube to ensure traffic was encrypted and internet access worked normally.
 
 8. VPN Disconnection:
 
-Disconnected the VPN to observe IP address return to my original location.
+   Disconnected the VPN to observe IP address return to my original location.
 
-Verified browsing speed and functionality.
+   Verified browsing speed and functionality.
 
 ## Screenshots Provided Separately:
 VPN Client showing active connection to Hong Kong
