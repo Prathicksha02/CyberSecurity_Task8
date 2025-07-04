@@ -7,7 +7,7 @@ To understand the role of VPNs in protecting privacy and enabling secure communi
 Windscribe (Free Version)
 
 ## Steps Followed:
-Account Creation:
+1. Account Creation:
 
 Signed up for a free Windscribe account on windscribe.com.
 
@@ -15,33 +15,33 @@ Download and Installation:
 
 Downloaded and installed the Windscribe VPN client for Windows.
 
-Login:
+2. Login:
 
 Logged into the Windscribe VPN application using the registered account.
 
-VPN Connection:
+3. VPN Connection:
 
 Connected to the Hong Kong - Victoria server using the VPN client.
 
 Verified that the VPN status was showing as "Connected".
 
-IP Address Verification:
+4. IP Address Verification:
 
-Before connecting to VPN:
+5. Before connecting to VPN:
 
 Checked my public IP on whatismyipaddress.com.
 
 IP showed my original location.
 
-After connecting to VPN:
+6. After connecting to VPN:
 
 IP changed to Hong Kong location confirming VPN is working.
 
-Website Browsing Test:
+7. Website Browsing Test:
 
 Accessed websites like Google and YouTube to ensure traffic was encrypted and internet access worked normally.
 
-VPN Disconnection:
+8. VPN Disconnection:
 
 Disconnected the VPN to observe IP address return to my original location.
 
